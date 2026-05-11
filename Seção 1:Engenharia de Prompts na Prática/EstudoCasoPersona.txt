@@ -1,0 +1,26 @@
+
+Na Engenharia de Prompts (2026), a técnica de Persona faz a IA responder como um especialista específico, como professor, recrutador ou desenvolvedor.
+
+Isso ajuda a:
+
+melhorar a qualidade das respostas
+reduzir respostas genéricas
+deixar a explicação mais profissional
+adaptar o conteúdo ao objetivo do usuário
+
+A fórmula mais eficiente para criar prompts é:
+
+Persona + Contexto + Objetivo + Restrições + Formato
+
+Exemplo:
+
+Aja como um desenvolvedor Full Stack senior.
+
+Contexto:
+Estou criando um sistema web com Angular e MongoDB.
+
+Objetivo:
+Aprender integração frontend e backend.
+
+Formato:
+Explique passo a passo para iniciantes.

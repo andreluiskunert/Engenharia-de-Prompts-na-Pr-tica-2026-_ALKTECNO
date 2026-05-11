@@ -1,0 +1,55 @@
+Crie um site responsivo para uma biblioteca online usando React e Node.js.
+
+O site deve conter:
+- Página inicial
+- Cadastro de livros
+- Listagem de livros
+- Exclusão de livros
+- Layout acessível
+- Tema moderno em tons azul e branco
+- Banco MongoDB
+- API em Express
+
+Explique passo a passo como criar cada arquivo e pasta.
+Crie um programa em Java que conte quantas palavras existem em uma frase digitada pelo usuário.
+
+Requisitos:
+- Usar Scanner
+- Usar método separado
+- Permitir repetição com while
+- Explicar cada linha do código
+
+| Elemento            | Exemplo                         |
+| ------------------- | ------------------------------- |
+| Objetivo            | "Criar sistema de biblioteca"   |
+| Tecnologia          | "Usando React e MongoDB"        |
+| Funcionalidades     | "Cadastrar, listar e excluir"   |
+| Estilo              | "Interface moderna e acessível" |
+| Formato da resposta | "Explique passo a passo"        |
+
+Aja como [profissão/especialista].
+
+Crie [o que deseja].
+
+Usando [tecnologias].
+
+O projeto deve ter:
+- item 1
+- item 2
+
+Explique de forma [didática/técnica/resumida].
+Aja como um desenvolvedor Full Stack sênior.
+
+Crie um sistema web para farmácia usando:
+- React
+- Express
+- MongoDB
+
+O sistema deve:
+- cadastrar medicamentos
+- controlar estoque
+- possuir login
+- ser acessível
+- funcionar em celular
+
+Explique passo a passo para um estudante iniciante.
