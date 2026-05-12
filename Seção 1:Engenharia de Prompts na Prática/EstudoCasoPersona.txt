@@ -5,7 +5,7 @@ Isso ajuda a:
 
 melhorar a qualidade das respostas
 reduzir respostas genéricas
-deixar a explicação mais profissional
+
 adaptar o conteúdo ao objetivo do usuário
 
 A fórmula mais eficiente para criar prompts é:
